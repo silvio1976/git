@@ -1,3 +1,7 @@
 teste
 Entendendo o head
+<<<<<<< HEAD
 ESTA LINHA FOI MODIFICADA NO RAMO MASTER
+=======
+ESTA LINHA FOI MODIFICADA O RAMO TESTE
+>>>>>>> teste
